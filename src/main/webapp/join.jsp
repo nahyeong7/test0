@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class = "container">
-		<h3>feature 기능 개발</h3>
+		<h3>feature 기능 개발 - join </h3>
 
 	</div>
 </body>
